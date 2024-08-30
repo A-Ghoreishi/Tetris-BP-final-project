@@ -3,14 +3,15 @@
 ## Overview
 
 Tetris is a classic puzzle game where the player must fit falling tetrominoes into a grid to create complete lines, which then disappear. This project is a C++ implementation of the Tetris game, providing a fully functional game where players can experience the iconic gameplay on their desktop.
-(https://github.com/A-Ghoreishi/Tetris-BP-final-project/blob/main/menu.jpg)
+![Main Menu](https://github.com/A-Ghoreishi/Tetris-BP-final-project/blob/main/menu.jpg)
 ## Features
 
 - Classic Tetris gameplay with rotating and moving tetrominoes.
-- [!Supports different levels and increasing difficulty.](https://github.com/A-Ghoreishi/Tetris-BP-final-project/blob/main/difficulty.jpg)
+-
+- ![Supports different levels and increasing difficulty.](https://github.com/A-Ghoreishi/Tetris-BP-final-project/blob/main/difficulty.jpg)
 - Real-time scoring and game-over conditions.
 - Simple, text-based UI that displays the game grid and score.
-- [!Selecting theme for the environment](https://github.com/A-Ghoreishi/Tetris-BP-final-project/blob/main/theme.jpg)
+- ![Selecting theme for the environment](https://github.com/A-Ghoreishi/Tetris-BP-final-project/blob/main/theme.jpg)
 
 ## Prerequisites
 
