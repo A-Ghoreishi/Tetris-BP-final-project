@@ -36,14 +36,14 @@ cd tetris-cpp
 ASD Keys: Move the falling tetromino A for left, D for right, or S for down.
 Z: Rotate the current tetromino.
 Esc Key: Pause or exit the game.
-(https://github.com/A-Ghoreishi/Tetris-BP-final-project/blob/main/guide.jpg)
+![Guidance](https://github.com/A-Ghoreishi/Tetris-BP-final-project/blob/main/guide.jpg)
 
 ## GamePlay
 The game features tetrominoes that fall from the top of the screen.
 Your objective is to create horizontal lines without gaps.
 Completed lines will disappear, earning you points.
 The game ends when there is no room for new tetrominoes.
-(https://github.com/A-Ghoreishi/Tetris-BP-final-project/blob/main/game%20.jpg)
+![Game Envirenment](https://github.com/A-Ghoreishi/Tetris-BP-final-project/blob/main/game%20.jpg)
 
 ## Contributions
 Contributions are welcome! If you have suggestions, improvements, or bug fixes, please open an issue or submit a pull request. For major changes, please discuss them first by opening an issue.
